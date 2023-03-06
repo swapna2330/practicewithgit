@@ -1,0 +1,5 @@
+file1.log
+ignoreFile
+*.log
+/error/
+second.xlsx
